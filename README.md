@@ -96,3 +96,116 @@ se utiliza un triple asterizco
 
 <ins>     El término software es un vocablo inglés que fue tomado por otros idiomas y designa a todo componente intangible (y no físico) que forma parte de dispositivos como computadoras, teléfonos móviles o tabletas y que permite su funcionamiento.</ins>
 
+### 5.Cuadros para Código o reselas (BLOCKQUOTES)
+
+Estos elementos son utilizados oara realizar instrucciones específicas para la instalación, 
+configuración y/o inicialización o mostrar secciones de código fuente. Se maqueta iniciando el texto con un simbolo de mayor que (/>)
+
+**ejemplo**
+Para listar las carpetas y archivos en desde una terminal de sistema operativo Windows debemos ingresar el comando
+
+> C:/dir
+Despué oprimimos la tecla "Enter".
+
+También podemos imgresar tectos multinllinea
+
+**Ejemplo**
+**Pasos para Instalar la Base de Datos:**
+
+>-Descargar MySQL server del sitio oficial
+>-Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario
+***root***
+>-Descargamos el archivo del respaldo de la base de datos (.sql)
+>-Restauramos la Base de Datos usando el comando "mysql >
+
+
+
+>> C:/Program Files/MySQL/MySQL Server 8.8/bin/mysql -u root -p password < respaldo.sql
+
+## 6.Listas ordensdas y listas desordenadas ##
+
+**EJEMPLO:**
+
+
+
+Para crear tu primer repositorio en GitHub deberás:
+
+5. Contar con cuenta de GitHub.
+
+
+1. Dar click en el boton: **Nuevo Repositorio**
+
+
+2. Asignarle un Nombre a tu repositorio, por ejemplo: *practica03-38*
+
+8. Asignarle un nivel de privacidad entre
+
+-**Público:** Si quieres que esté disponible para todos los usuarios.
+
+-**Privado:** Si deseas que solo a quien tu decidas puedan y colaborar con tu proyecto.
+
+
+5. Definir si incluye un archivo de descripción llamado README.md
+
+
+50. Definir si habrá exclusiones de archivo a través del archivo: .gitignore
+
+3. Guardar los cambios.
+
+Si queremos usar un orden que comientce en número especifico debemos utilizar código HTML, usando los tags \<ol> y \<li>:
+
+**Ejemplo**
+<ol start="5">
+ <li>quinto</li>
+ <li>sexto</li>
+ <li>Séptimo</li>
+</ol>
+
+#### 7.Ligas ( Hipervínculos)
+Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando los corchetes \[\], inmediatamente despues pondrémos la liga de referencia entre parentesis \( \)
+
+**Ejemplo**
+mi biscador favorito es: [Google](https://google.com).
+
+Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizar los simbolos \ < \>
+
+**Ejemplo**
+
+Documentación creada por ***Sayurid Bautista Cruz***
+<230770@utxicotepec.edu.mx>
+
+##### 8.Tablas (tables)
+
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas , para maquetarlas podemos utilizar el carácter \| para delifitar las columnas y \- oara delimitar las filas .
+
+**ejemplo**
+|Encabezado 1|Encabezado2|Encabezado 3|Encabezado 4|
+|-----------|-----------|-----------|-----------|
+|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
+|Fila 2 Celda 1|Fila 2 Celda 2|Fila 2 Celda 3|Fila 2 Celda 4|
+|Fila 3 Celda 1|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+
+En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *colspan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *Rowspan*.
+
+**Ejemplo**
+
+
+## Imagenes 
+![]()
+
+![]()
+
+**EJEMPLO:**
+
+|Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
+|-------------|-------------|-------------|------------|
+|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
+|Fila 2 Celda 1|              |Fila 2 Celda 2|              |
+|Fila 3 Celda 1|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+|              |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
+|              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
+|Fila 5 Celda 1|Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
+
+
+
+
