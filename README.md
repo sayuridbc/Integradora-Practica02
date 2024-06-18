@@ -214,10 +214,10 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
 </tr>
 
 <tr>
-<td rowspan=3>Fila 3 Celda 1 </td>
-<td>Fila 3 Celda 2</td>
-<td>Fila 3 Celda 3</td>
-<td>Fila 3 Celda 4</td>
+<td rowspan=3>|Fila 3 Celda 1| </td>
+<td>|Fila 3 Celda 2|</td>
+<td>|Fila 3 Celda 3|</td>
+<td>|Fila 3 Celda 4|</td>
 </tr>
 
 
