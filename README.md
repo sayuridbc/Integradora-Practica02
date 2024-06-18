@@ -208,4 +208,18 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
 
 
 
+<tr>
+<td>Fila 2 celda 1</td>
+<td colspan=3 align="center">Fila 2 Celda 2</td>
+</tr>
+
+<tr>
+<td rowspan=3>Fila 3 Celda 1 </td>
+<td>Fila 3 Celda 2</td>
+<td>Fila 3 Celda 3</td>
+<td>Fila 3 Celda 4</td>
+</tr>
+
+
+
 
