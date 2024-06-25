@@ -187,13 +187,7 @@ Si la documentación lo requiere podemos presentar información en formato de ta
 
 En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *colspan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *Rowspan*.
 
-**Ejemplo**
 
-
-## Imagenes 
-![]()
-
-![]()
 
 **EJEMPLO:**
 
@@ -234,6 +228,9 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
 </tr>
 
 </table>
+
+**Imagenes**
+**Ejemplo**
 
 
 
