@@ -200,37 +200,7 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
 |              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 |Fila 5 Celda 1|Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 
-</tr>
-<tr>
-<td rowspan=3> Fila 3 Celda 1</td>
-<td> Fila 3 Celda 2</td>
-<td> Fila 3 Celda 3</td>
-<td> Fila 3 Celda 4</td>
-</tr>
 
-<tr>
-<td>Fila 4 Celda 2</td>
-<td>Fila 4 Celda 3</td>
-<td>Fila 4 Celda 4</td>
-</tr>
-<tr>
-<td>Fila 5  Celda 2</td>
-<td>Fila 5  Celda 3</td>
-<td>Fila 5  Celda 4</td>
-
-</tr>
-<tr>
-<td>Fila 5  Celda 1</td>
-<td>Fila 5  Celda 2</td>
-<td>Fila 5  Celda 3</td>
-<td>Fila 5  Celda 4</td>
-
-</tr>
-
-</table>
-
-**Imagenes**
-**Ejemplo**
 
 
 
