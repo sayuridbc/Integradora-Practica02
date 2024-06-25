@@ -174,6 +174,10 @@ Pero si deseamos poner solo las ligas directas o un correo electrónico podemos 
 Documentación creada por ***Sayurid Bautista Cruz***
 <230770@utxicotepec.edu.mx>
 
+
+
+
+
 ### 8. Tablas (Tables)
 Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas, para maquetarlas podemos utilizar el caracter \| para delimitar las columnas y \- para delimitar las filas.
 
@@ -261,5 +265,7 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la funci
 
 
 
-i
+
+
+
 
